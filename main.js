@@ -1,1 +1,2 @@
-prompt("Masukin dong oni-chann")
+inputUser = prompt("Masukin dong oni-chann");
+alert("inputUser");
